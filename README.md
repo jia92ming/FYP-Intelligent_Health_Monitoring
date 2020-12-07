@@ -1,7 +1,8 @@
 # FYP-Intelligent_Health_Monitoring
 
 ### The jupiter codes are included in this site.
-### I had also created a webite for callback.
+### I had also created a webite for callback instead of using Local Host:
+https://1jia99ming2.wixsite.com/finalyearproject
 
 
 ### READ ME:
@@ -10,9 +11,10 @@
 
 - "FYP_SUBJECTS_CLASS.ipynb" is the Class definition for SUBJECTS (required for having split note books)
 
-- Pickle files (for data) are in the PERSON1/2 folder
+- Pickle files (for data) are in the PERSON 1 / PERSON 2 folder, uploaded in Google Drive: 
+https://drive.google.com/drive/folders/1YHyTqTRSiZ-qcHZ31pZXXFXkUtbdjfIy?usp=sharing
 
-- I am currently using PICKLE file as i see it 
+- I am currently using PICKLE file as i see it is
    easier to index different person's DFs and Data under a single instance of the SUBJECT class.
 
 - Currently fitness data are taken from FITBIT, however, the API fetch code for other companies
@@ -37,11 +39,17 @@
 4. "FYP_FITBIT_3-#_Data_Exploration_Trend_Analysis_PERSON#"
   - For exploring the data trends gotten from the first 2 step for each individual.
 
-5. "FYP_FITBIT_3-#_Correlation in xxx and yyy.ipynb"
+5. "FYP_FITBIT_4-#_Correlation in xxx and yyy.ipynb"
   - Correlation analysis of fitness data and health indicators.
 
-6. "DATA FROM OTHER SOURCES.ipynb"
+6. "FYP_FITBIT_5-#_Fuzzy_xxx.ipynb"
+  - Implementation of Fuzzy Logic System.
+
+7. "DATA FROM OTHER SOURCES.ipynb"
   - Exploration of data from the paper "Beyond Fitness Tracking", by Weng et al, dated 2018 Feb 27.
+  
+8. "FYP_FITBIT_6-#DATA FROM OTHER SOURCES.ipynb"
+  - Implemetation of Fuzzy Logic using Data from the paper "Beyond Fitness Tracking", by Weng et al, dated 2018 Feb 27.  
 
 ### Python Version and Libraries Used:
 1. python 3.0
